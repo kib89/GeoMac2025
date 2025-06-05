@@ -1,2 +1,2 @@
 # GeoMac2025
-https://github.com/kib89/GeoMac2025.git
+https://kib89.github.io/GeoMac2025/
